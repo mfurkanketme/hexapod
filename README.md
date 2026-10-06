@@ -51,7 +51,7 @@ hangi dosyanın derleneceği `build_src_filter` ile seçiliyor:
 
 **Kalibrasyon (`include/motor_calib.h`)**
 18 motorun her biri serbest bırakılıp iki uca çevrildi, okunan ham değerlerden
-çalışma aralığı ve merkez çıkarıldı. Sayacın sarmasının (ST3020 için 4096, AX-12A
+çalışma aralığı ve merkez çıkarıldı. Sayaç sarmasının (ST3020 için 4096, AX-12A
 için 1024) üzerine taşan eklemler ayrıca işaretlendi, yoksa alt sınır üst
 sınırdan büyük görünüyor.
 
